@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clasificador de Rocas Ígneas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Rocas Ígneas</h1>
+        
+        <div class="image-container">
+            <img id="rock-image" src="" alt="Imagen de roca">
+            <p id="rock-name" class="rock-name">?</p>
+        </div>
+        
+        <div class="classification-section">
+            <h2>Textura</h2>
+            <div class="options" id="texture-options">
+                <!-- Generado por JavaScript -->
+            </div>
+            
+            <h2>Composición Química</h2>
+            <div class="options" id="composition-options">
+                <!-- Generado por JavaScript -->
+            </div>
+
+            <h2>Ubicación de Formación</h2>
+            <div class="options" id="location-options">
+                <!-- Generado por JavaScript -->
+            </div>
+        </div>
+        
+        <div class="buttons">
+            <button id="check-answers">Verificar Respuestas</button>
+            <button id="next-rock">Siguiente Roca</button>
+        </div>
+        
+        <div id="results" class="hidden">
+            <h2>Resultados</h2>
+            <p id="score-message"></p>
+            <p id="correct-answers"></p>
+        </div>
+    </div>
+    
+    <script src="app.js"></script>
+</body>
+</html>

@@ -2,7 +2,7 @@
 const rocksDatabase = [
     {
         id: 1,
-        image: "images/granito.png",
+        image: "images/Granito.png",
         texture: "fanerítica",
         composition: "félsica",
         location: "intrusiva",

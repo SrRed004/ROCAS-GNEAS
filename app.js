@@ -3,10 +3,10 @@ const rocksDatabase = [
     {
         id: 1,
         image: "images/Granito.png",
-        texture: "fanerítica",
-        composition: "intermedia",
+        texture: "porfídica",
+        composition: "félsica",
         location: "intrusiva",
-        name: "Granito"
+        name: "Granito, felsíca presenta mayor % colores claros"
     },
     {
         id: 2,

@@ -75,7 +75,7 @@ const rocksDatabase = [
     { 
         id: 10,
         image: "images/09.png",
-        texture: "afanitica",
+        texture: "afanítica",
         composition: "félsica",
         location: "extrusiva",
         name: "Andesita" 
@@ -99,9 +99,9 @@ const rocksDatabase = [
     { 
         id: 13,
         image: "images/12.png",
-        texture: "porfídica",
+        texture: "piroclástica",
         composition: "félsica",
-        location: "intrusiva",
+        location: "extrusiva",
         name: "12" 
     },
     { 

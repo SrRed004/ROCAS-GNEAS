@@ -93,7 +93,7 @@ const rocksDatabase = [
         image: "images/11.png",
         texture: "fanerítica",
         composition: "ultramáfica",
-        location: "extrusiva",
+        location: "intrusiva",
         name: "Peridiotita" 
     },
     { 

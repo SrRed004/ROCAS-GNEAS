@@ -4,7 +4,7 @@ const rocksDatabase = [
         id: 1,
         image: "images/Granito.png",
         texture: "fanerítica",
-        composition: "félsica",
+        composition: "intermedia",
         location: "intrusiva",
         name: "Granito"
     },

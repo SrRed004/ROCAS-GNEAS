@@ -135,6 +135,38 @@ const rocksDatabase = [
         composition: "intermedia",
         location: "intrusiva",
         name: "16" 
+    },
+    { 
+        id: 18,
+        image: "images/17.png",
+        texture: "afanítica",
+        composition: "félsica",
+        location: "extrusiva",
+        name: "17" 
+    },
+    { 
+        id: 19,
+        image: "images/18.png",
+        texture: "porfídica",
+        composition: "máfica",
+        location: "intrusiva",
+        name: "Basalto con olivino" 
+    },
+    { 
+        id: 20,
+        image: "images/19.png",
+        texture: "afanítica",
+        composition: "máfica",
+        location: "extrusiva",
+        name: "Basalto" 
+    },
+    { 
+        id: 21,
+        image: "images/20.png",
+        texture: "fanerítica",
+        composition: "máfica",
+        location: "intrusiva",
+        name: "Grabo, compuesto por silicatos Fe,Mg" 
     }
 ];
 

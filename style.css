@@ -143,3 +143,15 @@ button:disabled {
         margin: 5px 0;
     }
 }
+#author-signature {
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid #eee;
+    text-align: center;
+    font-size: 0.9em;
+    color: #666;
+}
+
+#author-signature strong {
+    color: #2c3e50;
+}
